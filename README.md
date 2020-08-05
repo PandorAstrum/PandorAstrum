@@ -65,7 +65,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="pandorastrum's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pandorastrum&show_icons=true&hide_border=true" />
 
 [website]: http://pandorastrum.com
 [twitter]: https://twitter.com/PandorAstrum
