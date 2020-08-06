@@ -1,5 +1,5 @@
-# Fetch blog post form pandorastrum api
-name: Latest blog post workflow
+# Fetch youtube videos of pandorastrum
+name: Latest youtube video workflow
 on:
   schedule:
     # runs every 7 days
@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme-with-youtube:
+    name: Update this repo's README with latest youtube videos
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
