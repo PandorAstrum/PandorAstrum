@@ -1,10 +1,10 @@
 ### Hi there, I'm Ashiq - from PandorAstrum [PandorAstrum][website] 👋
 #### I am a solo entreprenuer struggling to build new breeds of examplery company run by one person
 
-## I'm a Husband, a Developer and an Artist!
+## I'm a Programmer and an Artist Combo!
 - 🎮 Games industry and making games drive me crazy 
 - 🌱 I’m curious to learning everything 🤣
-- 🤖 AI, ML and crypto-currency are my passion 
+- 🤖 AI - ML trying to harness its potential 
 - 📆 2020-2021 Goals: Establish a suit of apps to automate various business process
 - ⚡ Fun fact: I love to sketch, travel historical places and love my 🐶
 
